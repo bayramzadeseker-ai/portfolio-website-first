@@ -21,5 +21,3 @@ This portfolio website is built with a modern and responsive design. Its main pu
 - Projects section
 - Contact form
 - Modern UI/UX design
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
